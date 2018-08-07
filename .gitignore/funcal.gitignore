@@ -1,0 +1,16 @@
+<!DOCTYPE>
+<html>
+<head>
+<script src="text/javascript">
+</script>
+</head>
+<body>
+<h1>FUNCTION CALCULATOR</h1>
+X=<input type="text" id="userInput"></input>
+<button id="btncalculate">Calculate</button>
+</br>
+</br>
+<p class="result" function="sin"></p>
+<p class="result" function="cos"></p>
+</body>
+</html>
